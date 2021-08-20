@@ -1,0 +1,6 @@
+---
+title: "Blog listing"
+description: |
+  This blog contains a mixture of posts on statistics, data science, R and academia.
+listing: posts
+---
