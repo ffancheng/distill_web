@@ -1,0 +1,14 @@
+name: "distill_web"
+title: "Fan Cheng"
+description: |
+  Fan Cheng
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Post"
+      href: post
+output: distill::distill_article
